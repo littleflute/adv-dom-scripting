@@ -1,4 +1,4 @@
-[v0.0.5](https://github.com/littleflute/adv-dom-scripting/edit/master/chapter1/readme.md)
+[v0.0.6](https://github.com/littleflute/adv-dom-scripting/edit/master/chapter1/readme.md)
 
 [ADS-start.js](ADS-start.js)
 
@@ -8,4 +8,4 @@
 
 [popup](popup)
 
-[misc](misc/)
+[misc](misc/inlineInBody.html)
